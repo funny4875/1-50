@@ -1,12 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[11]:
-
-
 #game site:
 #http://wap.jue-huo.com/app/html/game/1to50/1to50.html
-
 import pyautogui as ag
 def autoGame():
     try:
